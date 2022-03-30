@@ -16,7 +16,7 @@ appUpload.use(express.static(path.join(__dirname, 'client/build_upload')))
 app.use('/',(req,res,next)=>{
   return res.sendFile(path.resolve(__dirname, 'client/build_normal', 'index.html'))
 })
-appUpload.use('/',(req,res,next)=>{
+appUpload.use('/upload',(req,res,next)=>{
   return res.sendFile(path.resolve(__dirname, 'client/build_upload', 'index.html'))
 })
 
