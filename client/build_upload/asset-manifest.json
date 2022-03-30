@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9de67b96.css",
+    "main.js": "/static/js/main.3ffc2a62.js",
+    "static/js/787.06c578ed.chunk.js": "/static/js/787.06c578ed.chunk.js",
+    "static/media/SA_Army.svg": "/static/media/SA_Army.d382c0b0f3afd7d598a99f52342516d8.svg",
+    "static/media/ShieldLife.svg": "/static/media/ShieldLife.9e4d4d3a55e9cd2fceb7aa454e91b210.svg",
+    "static/media/MF_Financial_Services.svg": "/static/media/MF_Financial_Services.35a89de3e4d52b8cb442512872337189.svg",
+    "index.html": "/index.html",
+    "main.9de67b96.css.map": "/static/css/main.9de67b96.css.map",
+    "main.3ffc2a62.js.map": "/static/js/main.3ffc2a62.js.map",
+    "787.06c578ed.chunk.js.map": "/static/js/787.06c578ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de67b96.css",
+    "static/js/main.3ffc2a62.js"
+  ]
+}

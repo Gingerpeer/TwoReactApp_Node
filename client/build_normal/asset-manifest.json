@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2434f2ba.css",
+    "main.js": "/static/js/main.ec7f9595.js",
+    "static/js/498.cd1ec635.chunk.js": "/static/js/498.cd1ec635.chunk.js",
+    "static/js/703.494b74f9.chunk.js": "/static/js/703.494b74f9.chunk.js",
+    "static/js/248.27f4cff8.chunk.js": "/static/js/248.27f4cff8.chunk.js",
+    "static/js/787.06c578ed.chunk.js": "/static/js/787.06c578ed.chunk.js",
+    "static/media/SA_Army.svg": "/static/media/SA_Army.d382c0b0f3afd7d598a99f52342516d8.svg",
+    "static/media/ShieldLife.svg": "/static/media/ShieldLife.9e4d4d3a55e9cd2fceb7aa454e91b210.svg",
+    "static/media/MF_Financial_Services.svg": "/static/media/MF_Financial_Services.35a89de3e4d52b8cb442512872337189.svg",
+    "index.html": "/index.html",
+    "main.2434f2ba.css.map": "/static/css/main.2434f2ba.css.map",
+    "main.ec7f9595.js.map": "/static/js/main.ec7f9595.js.map",
+    "498.cd1ec635.chunk.js.map": "/static/js/498.cd1ec635.chunk.js.map",
+    "703.494b74f9.chunk.js.map": "/static/js/703.494b74f9.chunk.js.map",
+    "248.27f4cff8.chunk.js.map": "/static/js/248.27f4cff8.chunk.js.map",
+    "787.06c578ed.chunk.js.map": "/static/js/787.06c578ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2434f2ba.css",
+    "static/js/main.ec7f9595.js"
+  ]
+}
